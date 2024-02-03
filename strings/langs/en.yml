@@ -1,4 +1,4 @@
-name : 🇦🇿 Azərbaycan
+name : 🇦🇿 Azərbaycanca
 
 
 general_1 : "» İstifadəçinin mesajına cavab verin və ya istifadəçinin istifadəçi adını/istifadəçi id-sini verin"
@@ -94,7 +94,7 @@ start_6 : "💝 <b>İzləmə məlumatı</b> 💝\n\n📌 <b>Ad:</b> {0}\n\n⏳ <
 help_1 : "<b>Əmrləri və Dərslikləri görmək üçün aşağıdakı düymələrdən istifadə edin.</b>\n\n<b>Qrup üzvlərinin yalnız oxutma əmrlərini, qrup adminlərinin isə admin əmrlərini yoxlaması kifayət olacaq.</b>\n\n<b>Kömək üçün <a href={0}>dəstək çatına</a> yaza bilərsiniz.</b>"
 help_2 : "Mənim kömək menyumu öyrənmək üçün aşağıdakı düyməyə basın."
 
-lang_1 : "» Zəhmət olmasa, bu qrup üçün təyin edəcəyiniz əsas dilı seçin:"
+lang_1 : "» Zəhmət olmasa, bu qrup üçün təyin edəcəyiniz dil seçin:"
 lang_2 : "Dil dəyişdirildi."
 lang_3 : "Dil dəyişdirilmədi."
 lang_4 : "Siz artıq eyni dili seçmisiniz."
