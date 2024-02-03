@@ -91,7 +91,7 @@ start_4 : "<b>Süperqrup lazımdır</b>\n\nZəhmət olmasa, qrupunuzu <b>Süperq
 start_5 : "<b>↝ Qara siyahıda olan çat ↜</b>\n\nBu çat {0} verilənlər bazasında qara siyahıdadır.\nSizə <a href={1}>sudo istifadəçi</a> göndərilir və ya <a href={2}>dəstək çatına</a> gedin."
 start_6 : "💝 <b>İzləmə məlumatı</b> 💝\n\n📌 <b>Ad:</b> {0}\n\n⏳ <b>Müddəti:</b> {1} dəqiqə\n👀 <b+Baxışlar:</b> <code>{2}</code>\n⏰ <b>Yayımlandı:</b> {3}\n📎 <b>Kanal:</b> <a href={4}>{5}</a>\n\n<u><b> {6} tərəfindən gücləndirilmiş axtarış</b></u>"
 
-help_1 : "<b>Əmrləri və Dərslikləri görmək üçün aşağıdakı düymələrdən istifadə edin. 🔰</b>\n\n<b>Qrup üzvlərinin yalnız oxutma əmrlərini, qrup adminlərinin isə admin əmrlərini yoxlaması kifayət olacaq.</b>\n\n<b>Kömək üçün <a href={0}>dəstək çatına</a> yaza bilərsiniz.</b>"
+help_1 : "<b>Əmrləri və Dərslikləri görmək üçün aşağıdakı düymələrdən istifadə edin.</b>\n\n<b>Qrup üzvlərinin yalnız oxutma əmrlərini, qrup adminlərinin isə admin əmrlərini yoxlaması kifayət olacaq.</b>\n\n<b>Kömək üçün <a href={0}>dəstək çatına</a> yaza bilərsiniz.</b>"
 help_2 : "Mənim kömək menyumu öyrənmək üçün aşağıdakı düyməyə basın."
 
 lang_1 : "» Zəhmət olmasa, bu qrup üçün təyin edəcəyiniz əsas dilı seçin:"
