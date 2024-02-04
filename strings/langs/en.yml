@@ -311,9 +311,9 @@ gban_11 : "» Qadağan edilmiş istifadəçilərin siyahısı əldə edilir..."
 gban_12 : "🙂 <b>Global olaraq qadağan edilmiş istifadəçilər:</b>\n\n"
 
 #Song
-SG_B_1 : "• buraya klikləyin •"
-SG_B_2 : "🎧 səs 🎧"
-SG_B_3 : "🎥 video 🎥"
+SG_B_1 : "• Buraya klikləyin •"
+SG_B_2 : "🎵 MP3 yüklə"
+SG_B_3 : "🎥 MP4 yüklə"
 
 # Song
 song_1 : "Siz yalnızca mənə özəl söhbətdən musiqi və ya video yükləyə bilərsiniz. Xahiş edirəm məni özəl söhbətdə başladın."
@@ -326,7 +326,7 @@ song_7 : "Videonun mövcud formatlarını almaq mümkün olmadı. Başqa track c
 song_8 : "Yükləmə başladı\n\nBir neçə saniyə gözləyin..."
 song_9 : "YT-DL-dən musiqi yükləmək mümkün olmadı\n\nSəbəb: {0}"
 song_10 : "Telegram serverlərinə yükləmə mümkün olmadı."
-song_11 : "Yükləmə başladı baby\n\nGözləyin..."
+song_11 : "Yükləmə başladı\n\nGözləyin..."
 
 #Lyrics
 lyrics_1 : "İstifadə:\n\n/lyrics [musiqi adı]"
