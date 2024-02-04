@@ -47,7 +47,7 @@ async def inline_query_handler(client, query):
 
 🕧 <b>Müddət:</b> {duration}
 👁️‍🗨️ <b>Baxış:</b> <code>{views}</code>
-📡 <b>Kanal :</b> <a href={channellink}>{channel}</a>
+📡 <b>Kanal:</b> <a href={channellink}>{channel}</a>
 🗓️ <b>Yayımlanma tarixi:</b> {published}
 
 
