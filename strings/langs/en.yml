@@ -152,7 +152,7 @@ play_14 : "Trek detallarını almağa nail olunmadı.\n\nDigər birini cəhd edi
 play_15 : "» Sorğu işlənilmədi.\n\nMən yalnız Spotify trek, albom, ifaçı və pleyslist oynaya bilərəm."
 play_16 : "Əlaqəli səsli söhbət yoxdur.\n\nMəcburi oynamaq üçün, aktiv səsli söhbət olmalıdır."
 play_17 : "Zəhmət olmasa, video söhbətini açın, URL-ləri yayımaq mümkün deyil."
-play_18 : "<b>İstifadə :</b> /play [mahnı adı/YouTube URL/cavab verilmiş səsli/videofaylı]"
+play_18 : "<b>İstifadə:</b> /play [mahnı adı/YouTube URL/cavab verilmiş səsli/videofaylı]"
 play_19 : "Qeyd edilmiş Pleyslist :"
 play_20 : "Qeyd edilmiş Vəziyyət-"
 play_21 : "{0} treki əlavə edildi.\n\n<b>Yoxla :</b> <a href={1}>Bura klikləyin</a>"
