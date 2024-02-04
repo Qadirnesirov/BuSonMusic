@@ -73,7 +73,7 @@ class Userbot(Client):
                 f"Assistant Started as {self.one.name}"
             )
             try:
-                await self.one.send_message(config.LOGGER_ID, f"**» ᴀssɪsᴛᴀɴᴛ ᴏɴᴇ sᴛᴀʀᴛᴇᴅ :**\n\n✨ ɪᴅ : `{self.one.id}`\n❄ ɴᴀᴍᴇ : {self.one.name}\n💫 ᴜsᴇʀɴᴀᴍᴇ : @{self.one.username}"
+                await self.one.send_message(config.LOGGER_ID, f"**Assistent Aktivdir:**\n\nID: `{self.one.id}`\nAd: {self.one.name}\nİstifadəçi Adı: @{self.one.username}"
                 )
             except:
                 LOGGER(__name__).error(
