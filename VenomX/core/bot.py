@@ -29,7 +29,7 @@ class Ayush(Client):
         try:
             await self.send_message(
                 chat_id=config.LOGGER_ID,
-                text=f"<u><b>» {self.mention} bota start etdi:</b><u>\n\nID: <code>{self.id}</code>\nAdı: {self.name}\nİstifadəçi Adı: @{self.username}",
+                text=f"<u><b>» {self.mention} bot aktiv edildi:</b><u>\n\nID: <code>{self.id}</code>\nAdı: {self.name}\nİstifadəçi Adı: @{self.username}",
             )
         except (errors.ChannelInvalid, errors.PeerIdInvalid):
             LOGGER(__name__).error(
