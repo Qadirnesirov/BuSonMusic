@@ -301,3 +301,30 @@ gban_9 : "{0} için global yasak kaldırıldı.\n\n{1} sohbetten yasak kaldırı
 gban_10 : "Hiçbir kullanıcı bot tarafından global olarak yasaklanmadı."
 gban_11 : "Global ban kullanıcı listesi alınıyor..."
 gban_12 : "🙂 <b>Global Ban Kullanıcıları :</b>\n\n"
+
+#Song
+SG_B_1 : "• Buraya tıklayın •"
+SG_B_2 : "🎵 MP3 indir"
+SG_B_3 : "🎥 MP4 indir"
+
+# Song
+song_1 : "Yalnızca benimle özel bir sohbetten müzik veya video indirebilirsiniz. Lütfen beni özel bir sohbete başlatın."
+song_2 : "Kullanım:\n\n/song [şarkı adı] veya [YouTube bağlantısı]"
+song_3 : "Canlı bağlantı algılandı. Canlı YouTube videoları indirilemiyor."
+song_4 : "📌 Başlık: {0}\n\nİndirmek istediğiniz türü seçin."
+song_5 : "Geçerli bir YouTube bağlantısı değil."
+song_6 : "Biçimler alınıyor...\n\nLütfen bekleyin..."
+song_7 : "Kullanılabilir video formatları alınamıyor. Başka bir parça deneyin."
+song_8 : "İndirme işlemi başladı\n\nLütfen birkaç saniye bekleyin..."
+song_9 : "YT-DL'den müzik indirilemedi\n\nNedeni: {0}"
+song_10 : "Telegram sunucularına yüklenemedi."
+song_11 : "İndirme başladı\n\nLütfen bekleyin..."
+
+#Lyrics
+lyrics_1 : "Kullanım:\n\n/lyrics [müzik adı]"
+lyrics_2 : "Şarkı sözleri arıyorum..."
+lyrics_3 : "❌ Şarkı Sözü alınamadı.\n\n💡Denediğimiz arama: {0}"
+lyrics_4 : "Uzun spam tipi şarkı sözü aramasını önlemek için aşağıdaki butona tıklayın ve aranan şarkı sözlerini alın."
+
+#Lyrics
+L_B_1 : "🚀 Şarkı sözleri hazır."
