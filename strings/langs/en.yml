@@ -331,11 +331,11 @@ song_11 : "Yükləmə başladı\n\nGözləyin..."
 #Lyrics
 lyrics_1 : "İstifadə:\n\n/lyrics [musiqi adı]"
 lyrics_2 : "Lyrics axtarılır..."
-lyrics_3 : "❌ Lyric əldə etmək mümkün olmadı 😭.\n\n💡Təcrübə etdiğimiz axtarış: {0}"
+lyrics_3 : "❌ Lyric əldə etmək mümkün olmadı.\n\n💡Təcrübə etdiğimiz axtarış: {0}"
 lyrics_4 : "Aşağıdakı düyməyə vurun və uzun spam tipi lyric axtarışından qorunmaq üçün axtarış edilmiş lyriclər əldə edin."
 
 #Lyrics
-L_B_1 : "🚀 Lyrics hazırdır"
+L_B_1 : "🚀 Lyrics hazırdır."
 
 #Suggestions
 sug_0 : "❓Do You Know?\n\n✅ "
