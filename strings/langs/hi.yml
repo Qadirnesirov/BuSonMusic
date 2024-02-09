@@ -86,10 +86,10 @@ start_4 : "<b>Süpergrup Gereksinimi</b>\n\nLütfen <b>grubunuzu</b> <b>süpergr
 start_5 : "<b>↝ Kara Listelenen Sohbet ↜</b>\n\nBu sohbet {0} veritabanında kara listelenmiştir.\nSohbetinizi kara listeden çıkarmak için <a href={1}>süper kullanıcı</a> ya da <a href={2}>destek sohbetine</a> başvurun."
 start_6 : "<b>🎶 Başlık:</b> {0}\n\n<b>🕧 Süre:</b> {1}\n<b>👁️‍🗨️ Görüntülenme:</b> <code>{2}</code>\n<b>🗓️ Yayınlanma Tarihi:</b> {3}\n<b>🔗 Kanal:</b> <a href={4}>{5}</a>\n\n<u><b>Tarafından Desteklenen Araştırma {6}</b></u>"
 
-help_1 : "Bu gruptaki kullanıcılara yardım etmek için lütfen kullanıcı türünü seçin.\nŞüphelerinizi <a href={0}>destek sohbetinde</a> sormaktan çekinmeyin.\n\nTüm komutları kullanmak için : <code>/</code>"
+help_1 : "Bu gruptaki kullanıcılara yardım etmek için lütfen kullanıcı türünü seçin.\nŞüphelerinizi <a href={0}>destek sohbetinde</a> sormaktan çekinmeyin.\n\nTüm komutları kullanmak için: <code>/</code>"
 help_2 : "Özel yardım menümü almak için lütfen aşağıdaki düğmeye tıklayın."
 
-lang_1 : "Lütfen grubun varsayılan dilini ayarlamak için bir dil seçin."
+lang_1 : "Dil seçin."
 lang_2 : "Dil başarıyla değiştirildi."
 lang_3 : "Dil değiştirme başarısız oldu."
 lang_4 : "Zaten aynı dilde bulunuyorsunuz."
