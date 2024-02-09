@@ -72,8 +72,8 @@ def AdminRightsCheck(mystic):
                     if message.from_user.id not in admins:
                         if await is_skipmode(message.chat.id):
                             upvote = await get_upvote_count(chat_id)
-                            text = f"""<b>Növbəti musiqiyə keçmək üçün admin olmalısan.</b>\n\nAdmin olduqdan sonra /reload vasitəsilə admin keşini yeniləyin\n\nVə ya, bunu yerinə yetirmək üçün {upvote} nəfər səs verməlidi.""
-
+                            text = f"""<b>Növbəti musiqiyə keçmək üçün admin olmalısan.</b>\n\nAdmin olduqdan sonra /reload vasitəsilə admin keşini yeniləyin\n\nVə ya, bunu yerinə yetirmək üçün {upvote} nəfər səs verməlidi."""
+                            
                             command = message.command[0]
                             if command[0] == "c":
                                 command = command[1:]
