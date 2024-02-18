@@ -5,7 +5,7 @@ general_1 : "» İstifadəçinin mesajına cavab verin və ya istifadəçinin is
 general_2 : "» Sorğunuzu icra etmə zamanı bir şeylər səhv gedir.\n\nİstisna : <code>{0}</code>"
 general_3 : "Siz bu söhbətin anonim adminsiniz, məni istifadə üçün istifadəçi hesabına qayıdın."
 general_4 : "» Sizdə video söhbətləri idarə etmək üçün icazələr yoxdur.\n\nAdmin keşini /reload vasitəsilə yenidən yükləyin"
-general_5 : "» Bot videochatda yayımlandığı üçün deyil."
+general_5 : "Bot səsli söhbətdə yayımlanmır."
 
 tg_1 : "<u><b>{0} YÜKLƏYİCİ</b></u>\n\n<b>Fayl ölçüsü:</b> {1}\n<b>Tamamlanan :</b> {2}\n<b>Yüz faiz:</b> {3}%\n\n<b>Sürət :</b> {4}/s\n<b>ETA:</b> {5}"
 tg_2 : "UĞURLA YÜKLƏNDİ, Fayl İşlənir...\n\n<b>Keçirilmiş vaxt:</b> {0}"
