@@ -80,7 +80,7 @@ async def start_pm(client, message: Message, _):
             if await is_on_off(2):
                 return await app.send_message(
                     chat_id=config.LOGGER_ID,
-                    text=f"{message.from_user.mention} yoxlamaq üçün botu başladın <b>Track Məlumatı</b>.\n\n<b>İstifadəçi ID:</b> <code>{message.from_user.id}</code>\n<b>İstifadəçi Adı:</b> @{message.from_user.username}",
+                    text=f"{message.from_user.mention} yoxlamaq üçün botu başladı.\n\n<b>İstifadəçi ID:</b> <code>{message.from_user.id}</code>\n<b>İstifadəçi Adı:</b> @{message.from_user.username}",
                 )
     else:
         out = private_panel(_)
