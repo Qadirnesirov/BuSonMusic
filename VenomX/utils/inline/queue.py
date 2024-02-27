@@ -28,7 +28,7 @@ def queue_markup(
                 text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🩶 Kanal", url="https://t.me/FormidableChannel",
             ),
         ],
     ]
@@ -54,7 +54,7 @@ def queue_markup(
                 text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🩶 Kanal", url="https://t.me/FormidableChannel",
             ),
         ],
     ]
@@ -80,7 +80,7 @@ def queue_back_markup(_, CPLAY):
                 text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🩶 Kanal", url="https://t.me/FormidableChannel",
             ),
         ],
         ]
@@ -101,7 +101,7 @@ def aq_markup(_, chat_id):
                 text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🩶 Kanal", url="https://t.me/FormidableChannel",
             ),
         ],
     ]
