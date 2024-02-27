@@ -23,7 +23,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
                 text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🩶 Kanal", url= "https://t.me/FormidableChannel"),
             )
         ],
         [
@@ -80,7 +80,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🩶 Kanal", url= "https://t.me/FormidableChannel"),
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -102,7 +102,7 @@ def stream_markup(_, chat_id):
                 text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
             ),
             InlineKeyboardButton(
-                text="🗨️ Söhbət Qrupu", url=SUPPORT_CHAT,
+                text="🩶 Kanal", url= "https://t.me/FormidableChannel"),
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
