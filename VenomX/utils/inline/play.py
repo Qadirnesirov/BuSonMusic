@@ -20,7 +20,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
+                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
             ),
             InlineKeyboardButton(
                 text="🩶 Kanal", url="https://t.me/FormidableChannel",
@@ -77,7 +77,7 @@ def stream_markup_timer(_, chat_id, played, dur):
             ],
         [
             InlineKeyboardButton(
-                text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
+                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
             ),
             InlineKeyboardButton(
                 text="🩶 Kanal", url="https://t.me/FormidableChannel",
@@ -99,7 +99,7 @@ def stream_markup(_, chat_id):
             ],
         [
             InlineKeyboardButton(
-                text="👨🏻‍💻 Əlaqə", url=f"tg://openmessage?user_id={OWNER_ID}",
+                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
             ),
             InlineKeyboardButton(
                 text="🩶 Kanal", url="https://t.me/FormidableChannel",
