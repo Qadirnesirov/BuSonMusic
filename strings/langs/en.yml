@@ -137,7 +137,7 @@ cplay_7 : "» Kanal oynatma deaktiv edildi."
 
 play_1 : "🔍 Sorğunuz emal olunur, zəhmət olmasa gözləyin..."
 play_2 : "<b>➻ Kanal oynatma rejimi</b>\n\nİşlənilir, gözləyin...\n\n<b>Əlaqəli kanal:</b> {0}"
-play_3 : "» Sorğu işlənilmədi."
+play_3 : "Sorğu işlənilmədi.\nBaşqa mahnı qoşun və ya mahnı adı düzgün yazın."
 play_4 : "<b>Yalnız adminlər qoşa bilər</b>\nYalnız bu söhbətin adminlərinə icazə verilib qoşmağa\n\nQoşma rejimini /playmode vasitəsi ilə dəyişdirin"
 play_5 : "» Audio faylı işlənilmədi.\n\nAudio fayl ölçüsü təyin olunmuş limitdən böyükdür."
 play_6 : "» Axın {1} üçün {0}-dən uzundur, bu da {1}-də qoşmağa icazə verilmir"
