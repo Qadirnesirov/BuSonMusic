@@ -25,10 +25,10 @@ def queue_markup(
         ],
          [
             InlineKeyboardButton(
-                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
+                text="✅ Digər Botlar", url=f"https://t.me/oToBoTBLoG",
             ),
             InlineKeyboardButton(
-                text="🩶 Kanal", url="https://t.me/FormidableChannel",
+                text="🩶 Kanal", url="https://t.me/Trouvaille_7",
             ),
         ],
     ]
@@ -51,10 +51,10 @@ def queue_markup(
         ],
          [
             InlineKeyboardButton(
-                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
+                text="✅ Digər Botlar", url=f"https://t.me/oToBoTBLoG",
             ),
             InlineKeyboardButton(
-                text="🩶 Kanal", url="https://t.me/FormidableChannel",
+                text="🩶 Kanal", url="https://t.me/Trouvaille_7",
             ),
         ],
     ]
@@ -77,10 +77,10 @@ def queue_back_markup(_, CPLAY):
            ],
              [
             InlineKeyboardButton(
-                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
+                text="✅ Digər Botlar", url=f"https://t.me/oToBoTBLoG",
             ),
             InlineKeyboardButton(
-                text="🩶 Kanal", url="https://t.me/FormidableChannel",
+                text="🩶 Kanal", url="https://t.me/Trouvaille_7",
             ),
         ],
         ]
@@ -92,10 +92,10 @@ def aq_markup(_, chat_id):
     buttons = [
          [
             InlineKeyboardButton(
-                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
+                text="✅ Digər Botlar", url=f"https://t.me/oToBoTBLoG",
             ),
             InlineKeyboardButton(
-                text="🩶 Kanal", url="https://t.me/FormidableChannel",
+                text="🩶 Kanal", url="https://t.me/Trouvaille_7",
             ),
         ],
     ]
