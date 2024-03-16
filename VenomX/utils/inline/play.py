@@ -10,10 +10,10 @@ def track_markup(_, videoid, user_id, channel, fplay):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
+                text="✅ Digər Botlar", url=f"https://t.me/oToBoTBLoG",
             ),
             InlineKeyboardButton(
-                text="🩶 Kanal", url="https://t.me/FormidableChannel",
+                text="🩶 Kanal", url="https://t.me/Trouvaille_7",
             )
         ],
         [
@@ -60,10 +60,10 @@ def stream_markup_timer(_, chat_id, played, dur):
             ],
         [
             InlineKeyboardButton(
-                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
+                text="✅ Digər Botlar", url=f"https://t.me/oToBoTBLoG",
             ),
             InlineKeyboardButton(
-                text="🩶 Kanal", url="https://t.me/FormidableChannel",
+                text="🩶 Kanal", url="https://t.me/Trouvaille_7",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -75,10 +75,10 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✅ Digər Botlar", url=f"https://t.me/BotlarAz/152",
+                text="✅ Digər Botlar", url=f"https://t.me/oToBoTBLoG",
             ),
             InlineKeyboardButton(
-                text="🩶 Kanal", url="https://t.me/FormidableChannel",
+                text="🩶 Kanal", url="https://t.me/Trouvaille_7",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
