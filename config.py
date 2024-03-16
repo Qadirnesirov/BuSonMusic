@@ -7,14 +7,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "19485442"))
-API_HASH = getenv("API_HASH", "a03fcb372b3ec4e406b5d52f84b02e53")
+API_ID = int(getenv("API_ID", "24066716"))
+API_HASH = getenv("API_HASH", "09e30e6e0b1a4c71e43a055979c51b3b")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "5919471465:AAFtkb9ZADjzxEuk7bGcH1DsISbsRAVl_r8")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://rahidindi:rahidindi_1234@cluster0.ifslufs.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://nesirovq1997:qadir1997@cluster0.pavador.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 5400))
 
@@ -22,27 +22,27 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1001864613336"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002096806763"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "571698989"))
+OWNER_ID = int(getenv("OWNER_ID", "6184936428"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
-HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
+HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "https://dashboard.heroku.com/account")
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY")
+HEROKU_API_KEY = getenv("HEROKU_API_KEY", "81640ab6-3294-4b5c-8e75-f5d776a5b5b7")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/RahidBot/AnonMusic",
+    "https://github.com/Qadirnesirov/BuSonMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BotlarAz")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BotlarSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/otobotblog")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/otobotsport")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -66,7 +66,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @Venom_string_robot on Telegram
-STRING1 = getenv("STRING_SESSION", "AgBgMRkH7xYfMibXWlm2sOMUrd-genTGzUlPxKkz7N2Gdxt-eWvITosYcy3cAo_J5JLrbvfRduK8-PFdpVElm80zyazcvyM0XSN4jWb_StaT_ZNJbHF9ec9pGL7xj0YDbwRtc9ldPqCJ03D2yAvhA1IttQXREg3rtM1jCkif6QE_2ku41VNgTG0qhH1fnD7RA9lPRq4MNHp1FrNVpEjQI635LxHw8jUfASQXd7xuQOmxNd38QGXUedm5fwePgcvRdDK9xtITRHDpWt5pmUarr6Hputrf1B2Up7fX4TFFBW432Iv5HeCTNwGerD52SItP3LJPpGzoP29FnNGlMCpPDp3dAAAAAWV6XysA")
+STRING1 = getenv("STRING_SESSION", "AgFvOpwAkqm-9SrYb3Ph_1cDHEm0cCrqU8bU0F8F7yWOr2PI1lulMc_gnE3201tt9t0p-O-1ZsW_AR10dRm7cOklymIGzpv8nnsDZlbjgln6kkrKfRycD-ywZv4CdmybczEImGvO_UXxrtWFQRfFtfQ7Z-JLrUHaksaO4o2fPV9HcuKQE1gQwN7MHgTqSGcZY4rd0NQWu_H9gfU4O81K-xzSzmQGjgQFsVYJpGOci1SHURofEQFnd72iVYOdjY9ZWJhP-HmvJTIslTDzWpkZ5-235Y65z3FUQ5SsL7gyUx84xc3XkH6W6EvMDDU7pSITyKWMG6UUSO_Q2sjURlxKZhJUZGkZOQAAAAFZvEdgAA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -89,18 +89,18 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/2292e230eaadd89845a20.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/3d639829f3c5e9fb0966e.jpg"
 
 
 def time_to_seconds(time):
